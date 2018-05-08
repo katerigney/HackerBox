@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace StarChart.Areas.HelpPage
+namespace HackerBox.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

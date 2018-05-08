@@ -1,14 +1,14 @@
 ﻿using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
-using StarChart.Context;
-using StarChart.ViewModels;
+using HackerBox.Context;
+using HackerBox.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace StarChart.Services
+namespace HackerBox.Services
 {
     public class AuthRepository : IDisposable
     {

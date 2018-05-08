@@ -1,7 +1,7 @@
 ﻿using Microsoft.Owin;
 using Microsoft.Owin.Security.OAuth;
 using Owin;
-using StarChart.Providers;
+using HackerBox.Providers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,8 +12,8 @@ using System.Web.Optimization;
 using System.Web.Routing;
 
 
-[assembly: OwinStartup(typeof(StarChart.Startup))]
-namespace StarChart
+[assembly: OwinStartup(typeof(HackerBox.Startup))]
+namespace HackerBox
 {
     public class Startup
     {

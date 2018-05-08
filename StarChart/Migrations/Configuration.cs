@@ -1,18 +1,18 @@
-namespace StarChart.Migrations
+namespace HackerBox.Migrations
 {
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<StarChart.Context.StarContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<HackerBox.Context.StarContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(StarChart.Context.StarContext context)
+        protected override void Seed(HackerBox.Context.StarContext context)
         {
             //  This method will be called after migrating to the latest version.
 

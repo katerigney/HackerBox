@@ -1,4 +1,4 @@
-namespace StarChart.Areas.HelpPage.ModelDescriptions
+namespace HackerBox.Areas.HelpPage.ModelDescriptions
 {
     public class CollectionModelDescription : ModelDescription
     {

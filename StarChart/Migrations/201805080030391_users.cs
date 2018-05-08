@@ -1,4 +1,4 @@
-namespace StarChart.Migrations
+namespace HackerBox.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;

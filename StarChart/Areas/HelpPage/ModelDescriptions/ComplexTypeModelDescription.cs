@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace StarChart.Areas.HelpPage.ModelDescriptions
+namespace HackerBox.Areas.HelpPage.ModelDescriptions
 {
     public class ComplexTypeModelDescription : ModelDescription
     {

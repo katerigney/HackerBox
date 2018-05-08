@@ -9,9 +9,10 @@ using System.Runtime.Serialization;
 using System.Web.Http;
 using System.Web.Http.Description;
 using System.Xml.Serialization;
+using HackerBox.Areas.HelpPage.ModelDescriptions;
 using Newtonsoft.Json;
 
-namespace StarChart.Areas.HelpPage.ModelDescriptions
+namespace HackerBox.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Generates model descriptions for given types.

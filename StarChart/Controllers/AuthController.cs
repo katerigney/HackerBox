@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNet.Identity;
-using StarChart.Services;
-using StarChart.ViewModels;
+using HackerBox.Services;
+using HackerBox.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;

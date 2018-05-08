@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace StarChart.Areas.HelpPage.ModelDescriptions
+namespace HackerBox.Areas.HelpPage.ModelDescriptions
 {
     internal static class ModelNameHelper
     {

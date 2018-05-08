@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using StarChart.Areas.HelpPage.ModelDescriptions;
-using StarChart.Areas.HelpPage.Models;
+using HackerBox.Areas.HelpPage.ModelDescriptions;
+using HackerBox.Areas.HelpPage.Models;
 
-namespace StarChart.Areas.HelpPage.Controllers
+namespace HackerBox.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

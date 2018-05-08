@@ -1,4 +1,4 @@
-namespace StarChart.Areas.HelpPage
+namespace HackerBox.Areas.HelpPage
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

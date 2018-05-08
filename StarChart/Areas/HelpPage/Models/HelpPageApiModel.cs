@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Net.Http.Headers;
 using System.Web.Http.Description;
-using StarChart.Areas.HelpPage.ModelDescriptions;
+using HackerBox.Areas.HelpPage.ModelDescriptions;
 
-namespace StarChart.Areas.HelpPage.Models
+namespace HackerBox.Areas.HelpPage.Models
 {
     /// <summary>
     /// The model that represents an API displayed on the help page.

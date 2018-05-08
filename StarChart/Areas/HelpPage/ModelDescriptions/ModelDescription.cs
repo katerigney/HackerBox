@@ -1,6 +1,6 @@
 using System;
 
-namespace StarChart.Areas.HelpPage.ModelDescriptions
+namespace HackerBox.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

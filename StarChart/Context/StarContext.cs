@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace StarChart.Context
+namespace HackerBox.Context
 {
     public class StarContext : IdentityDbContext<IdentityUser>
     {

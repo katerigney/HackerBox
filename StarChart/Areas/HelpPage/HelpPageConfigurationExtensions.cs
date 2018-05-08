@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using StarChart.Areas.HelpPage.ModelDescriptions;
-using StarChart.Areas.HelpPage.Models;
+using HackerBox.Areas.HelpPage.ModelDescriptions;
+using HackerBox.Areas.HelpPage.Models;
 
-namespace StarChart.Areas.HelpPage
+namespace HackerBox.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

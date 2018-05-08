@@ -5,9 +5,9 @@ using System.Reflection;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
 using System.Xml.XPath;
-using StarChart.Areas.HelpPage.ModelDescriptions;
+using HackerBox.Areas.HelpPage.ModelDescriptions;
 
-namespace StarChart.Areas.HelpPage
+namespace HackerBox.Areas.HelpPage
 {
     /// <summary>
     /// A custom <see cref="IDocumentationProvider"/> that reads the API documentation from an XML documentation file.
