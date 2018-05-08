@@ -7,6 +7,11 @@ app.config(function ($routeProvider) {
         controller: 'homeController'
     });
 
+    $routeProvider.when("/product", {
+        templateUrl: '/scripts/app/pages/productProfile.html',
+        controller: 'productController'
+    });
+
     $routeProvider.otherwise({ redirectTo: "/home" });
 });
 
