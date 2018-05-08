@@ -15,3 +15,9 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.jumbotron-billboard {
+    background-image: url(../Scripts/images/MayHint_edited.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
