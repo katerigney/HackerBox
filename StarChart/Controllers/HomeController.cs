@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace StarChart.Controllers
+namespace HackerBox.Controllers
 {
     public class HomeController : Controller
     {

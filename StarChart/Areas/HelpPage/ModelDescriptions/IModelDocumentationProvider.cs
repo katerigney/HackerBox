@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace StarChart.Areas.HelpPage.ModelDescriptions
+namespace HackerBox.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

@@ -9,7 +9,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
 
-namespace StarChart.Controllers
+namespace HackerBox.Controllers
 {
     [RoutePrefix("api/Account")]
     public class AccountController : ApiController
