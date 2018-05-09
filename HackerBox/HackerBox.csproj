@@ -252,6 +252,7 @@
     <Content Include="Scripts\app\app.js" />
     <Content Include="Scripts\app\controllers\home.controller.js" />
     <Content Include="Scripts\app\controllers\productController.js" />
+    <Content Include="Scripts\app\controllers\signupController.js" />
     <Content Include="Scripts\app\pages\dashboard.html" />
     <Content Include="Areas\HelpPage\Views\Web.config" />
     <Content Include="Areas\HelpPage\Views\Shared\_Layout.cshtml" />

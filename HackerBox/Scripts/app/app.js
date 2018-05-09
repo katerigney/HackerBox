@@ -12,6 +12,12 @@ app.config(function ($routeProvider) {
         controller: 'productController'
     });
 
+    $routeProvider.when("/product-sign-up", {
+        templateUrl: '/scripts/app/pages/signup.html',
+        controller: 'signupController'
+    });
+
+
     $routeProvider.otherwise({ redirectTo: "/home" });
 });
 
