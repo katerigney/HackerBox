@@ -13,10 +13,14 @@ app.config(function ($routeProvider) {
     });
 
     $routeProvider.when("/product-sign-up", {
-        templateUrl: '/scripts/app/pages/signup.html',
-        controller: 'signupController'
+        templateUrl: '/scripts/app/pages/product-sign-up.html',
+        controller: 'product-sign-upController'
     });
 
+    $routeProvider.when("/admin", {
+        templateUrl: '/scripts/app/pages/adminEntry.html',
+        controller: 'adminEntryController'
+    });
 
     $routeProvider.otherwise({ redirectTo: "/home" });
 });
